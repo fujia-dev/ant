@@ -1,3 +1,2 @@
-export const demo = () => {
-  // NOTE: do somethings
-};
+//
+export { default as quickSort } from './sort/quickSort';
