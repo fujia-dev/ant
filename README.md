@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="" target="_blank">
+  <a href="https://fujia-dev.github.io/ant/" target="_blank">
     <img alt="ant logo" width="200" src="./src/assets/images/quick.svg"/>
   </a>
 </div>
@@ -45,7 +45,7 @@ quickSort(data); // return:  [1, 2, 3, 4, 5, 6, 7, 9, 16]
 
 Learn more about using @fujia/ant:
 
-- [API Reference](https://fujia-dev.github.io/hammer/modules.html)
+- [API Reference](https://fujia-dev.github.io/ant/modules.html)
 
 ## License
 
